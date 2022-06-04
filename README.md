@@ -1,7 +1,7 @@
 # project_4_money_box
 import package intl
-Picture file name Example Screenshot_Project
 
+Picture file name Example Screenshot_Project
 A new Flutter project.
 
 ## Getting Started
